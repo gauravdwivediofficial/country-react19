@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFacts": "Japan has more than 6,800 islands, but most of its population lives on just four main islands.",
+    "languageSpoken": "Japanese"
+  },
+  {
+    "id": 2,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 214000000,
+    "interestingFacts": "Brazil is home to the Amazon Rainforest, which produces 20% of the world's oxygen.",
+    "languageSpoken": "Portuguese"
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38640000,
+    "interestingFacts": "Canada has the longest coastline in the world, stretching over 202,080 kilometers.",
+    "languageSpoken": "English and French"
+  },
+  {
+    "id": 4,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1428000000,
+    "interestingFacts": "India is the world's largest democracy and has the second-largest population globally.",
+    "languageSpoken": "Hindi and English (official), plus many regional languages"
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26000000,
+    "interestingFacts": "Australia is home to the Great Barrier Reef, the world's largest coral reef system.",
+    "languageSpoken": "English"
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67060000,
+    "interestingFacts": "France is the most visited country in the world, attracting over 89 million tourists annually.",
+    "languageSpoken": "French"
+  },
+  
+  {
+    "id": 7,
+    "countryName": "South Africa",
+    "capital": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)",
+    "population": 60600000,
+    "interestingFacts": "South Africa has three capitals, each serving a different branch of the government.",
+    "languageSpoken": "11 official languages including Zulu, Xhosa, and Afrikaans"
+  },
+  {
+    "id": 8,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 59000000,
+    "interestingFacts": "Rome is home to the Vatican City, the world's smallest independent state.",
+    "languageSpoken": "Italian"
+  },
+  {
+    "id": 9,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1426000000,
+    "interestingFacts": "China is the world's most populous country and the third-largest by area.",
+    "languageSpoken": "Mandarin Chinese"
+  }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "icon":"MdOutlinePlace",
+        "title":"Find Us",
+        "details":"Satna, Madhya Pradesh"
+    },
+    {
+        "icon":"MdOutlineWifiCalling3",
+        "title":"Call Us",
+        "details": "+919926819269"
+    },
+    {
+        "icon":"MdOutlineAlternateEmail",
+        "title":"Mail Us",
+        "details": "radarcodingoffical@gmail.com"
+    }
+]
