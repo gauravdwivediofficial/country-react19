@@ -28,7 +28,7 @@ export const SearchFilter = ({
   return (
     <section className="section-searchFilter container">
       <div>
-        <input
+        <input className="search-input"
           type="text"
           placeholder="search"
           value={search}

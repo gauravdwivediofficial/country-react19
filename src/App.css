@@ -78,7 +78,7 @@ button {
 /* Layout  */
 
 .container {
-  max-width: 110rem;
+  max-width: 100rem;
   margin: auto;
 }
 
@@ -101,20 +101,20 @@ button {
 /* Layout  */
 
 header {
-  height: 8rem;
+  height: 7rem;
   box-shadow: rgba(255, 255, 255, 0.3) 0px 10px 10px -10px;
   background-color: #202020;
   width: 100%;
 
   & .container {
-    height: 8rem;
+    height: 7rem;
   }
 }
 
 .navbar-grid {
   grid-template-columns: 0.5fr 1fr;
   align-items: center;
-  height: 10rem;
+  height: 7rem;
   padding: 0 3.2rem;
 }
 
@@ -135,7 +135,7 @@ nav ul {
 }
 
 /* media queries  */
-@media screen and (max-width: 998px) {
+@media screen and (max-width: 990px) {
   .menu-web {
     display: none;
   }
@@ -461,6 +461,11 @@ country Card
     font-weight: bold;
     letter-spacing: 0.1rem;
     text-transform: capitalize;
+    width: 20rem;
+    height: 4rem;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 18px;
     color: rgba(255, 255, 255, 0.8);
     border: 0.05rem solid #fff;
     background: linear-gradient(71deg, #080509, #1a171c, #080509);
