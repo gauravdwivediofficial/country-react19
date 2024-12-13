@@ -1,3 +1,13 @@
+#Dependencies You Should Install.
+
+- #npm i @types/react-router-dom
+- #npm i react-icons
+- #npm i axios
+- #npm install @mui/material @emotion/react @emotion/styled
+- #npm install @mui/material @mui/styled-engine-sc styled-components
+- #npm install @mui/icons-material
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

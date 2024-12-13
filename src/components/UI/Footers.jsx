@@ -60,7 +60,7 @@ function Footers() {
                 </li>
                 <li>
                   <NavLink
-                    to="https://github.com/gauravdwivediofficial/country-details"
+                    to="https://github.com/gauravdwivediofficial/country-react19"
                     target="_blank"
                   >
                     Source Code
